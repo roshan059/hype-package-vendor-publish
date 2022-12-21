@@ -2,6 +2,7 @@
     "name": "hypesewa/hype-vender-publish",
     "description": "vendor:publish for Lumen framework.",
     "type": "library",
+    "version": "1.0.0",
     "require": {
         "php": ">=8.0.0",
         "league/flysystem": "^3.11",
